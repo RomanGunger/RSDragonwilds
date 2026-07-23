@@ -223,7 +223,17 @@ void ARSCharacterBase::OnSkillXPChanged(const FOnAttributeChangeData& Data)
 	UE_LOG(LogTemp, Warning, TEXT("XP: %s"),
 	*USkillsAttributeSet::GetSkillName(Skill).ToString());
 
-	OnSkillXPChangedBP.Broadcast(Skill, Data.OldValue, Data.NewValue);
+	float CurrentLevel = 0.0f;
+	if (AbilitySystemComponent && SkillsAttributeSet)
+	{
+		const FGameplayAttribute LevelAttribute = SkillsAttributeSet->GetLevelAttributeBySkill(Skill);
+		if (LevelAttribute.IsValid())
+		{
+			CurrentLevel = AbilitySystemComponent->GetNumericAttribute(LevelAttribute);
+		}
+	}
+
+	OnSkillXPChangedBP.Broadcast(Skill, Data.OldValue, Data.NewValue, CurrentLevel);
 }
 
 

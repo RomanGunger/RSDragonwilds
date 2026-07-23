@@ -1,0 +1,84 @@
+{"kind":"deck","id":"pr/vjw3fb","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Образец заголовка"},{"name":"body","type":"body","textPreview":"Образец текста | Второй уровень | Третий уровень | Четвертый уровень | Пятый уровень"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Оранжевая простая обложка","placeholders":[{"name":"title","type":"title","textPreview":"Короткий | и емкий заголовок"},{"name":"body","type":"body","textPreview":"Саблайн, в котором можно чуть подробннее обозначить суть доклада"},{"name":"picture","type":"picture","textPreview":"Немного другой формат картинки,  | но с тем же смыслом"},{"name":"body","type":"body","textPreview":"Раздел презентации"},{"name":"body","type":"body","textPreview":"№"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Базовый белый слайд в 1 колонку","placeholders":[{"name":"title","type":"title","textPreview":"Простая белая страница  | с текстом в одну колонку"},{"name":"body","type":"body","textPreview":"Основной текст не следует делать на всю ширину слайда, лучше ограничиться восемью колонками, иначе его трудно будет читать. Следует делат..."},{"name":"body","type":"body","textPreview":"Раздел презентации"},{"name":"body","type":"body","textPreview":"№"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"2_Белый слайд с очень узкой картинкой справа","placeholders":[{"name":"title","type":"title","textPreview":"Вариант страницы с текстом  | и очень узкой картинкой"},{"name":"picture","type":"picture","textPreview":"Картинка, которая заполнит  | этот фон по форме  | (со скругленными углами).  |  | Она обрежется под | его размер автоматически."},{"name":"body","type":"body","textPreview":"От текста до изображения лучше оставить некоторый отступ.  | Не стоит делать его слишком большим, или слишком маленьким. И помните о прав..."},{"name":"body","type":"body","textPreview":"От текста до изображения лучше оставить некоторый отступ.  | Не стоит делать его слишком большим, или слишком маленьким. И помните о прав..."},{"name":"body","type":"body","textPreview":"Раздел презентации"},{"name":"body","type":"body","textPreview":"№"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Белый слайд с увеличенной картинкой справа","placeholders":[{"name":"title","type":"title","textPreview":"Страница  | с большой картинкой"},{"name":"body","type":"body","textPreview":"От текста до изображения лучше оставить некоторый отступ.  | Не стоит делать его слишком большим, или слишком маленьким. И помните  | о п..."},{"name":"picture","type":"picture","textPreview":"Немного другой формат картинки,  | но с тем же смыслом и принципом работы"},{"name":"body","type":"body","textPreview":"Раздел презентации"},{"name":"body","type":"body","textPreview":"№"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"AdIndex Сити 2026","textShapes":1}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"Заголовок 1","placeholder":"title","text":"AdIndex Сити 2026\nРекламный Вояджер","textPreview":"AdIndex Сити 2026 | Рекламный Вояджер","textChars":35,"textLines":2,"bbox":[21.03,273,560.62,246.63]}
+{"kind":"image","id":"im/dkb2xcfy","slide":1,"name":"Picture Placeholder 24","bbox":[553,0,729.05,720.8]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"26 июня 2026 года, Москва. Источник: AdIndex, https://adindex.ru/news/marketing/2026/07/1/346747.phtml"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"ЭФФЕКТИВНАЯ РЕКЛАМА · рост продаж и отдачи","textShapes":5}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"TextBox 11","text":"ЭФФЕКТИВНАЯ РЕКЛАМА · рост продаж и отдачи\nПОВЕДЕНЧЕСКАЯ ЭКОНОМИКА · от истории до транзакции","textPreview":"ЭФФЕКТИВНАЯ РЕКЛАМА · рост продаж и отдачи | ПОВЕДЕНЧЕСКАЯ ЭКОНОМИКА · от истории до транзакции","textChars":93,"textLines":2,"bbox":[61.67,554.37,1202.89,87.24]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"Title 1","placeholder":"title","text":"Основные тематические направления","textPreview":"Основные тематические направления","textChars":33,"textLines":1,"bbox":[63.81,52.98,763.5,90.98]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"TextBox 8","text":"НОВАЯ РЕКЛАМНАЯ НОРМАЛЬНОСТЬ\nкто и как формирует правила рынка\n\nИНДУСТРИЯ ВПЕЧАТЛЕНИЙ И КОММУНИКАЦИЙ\nPR, SMM, контент и инфлюенс-маркетинг","textPreview":"НОВАЯ РЕКЛАМНАЯ НОРМАЛЬНОСТЬ | кто и как формирует правила рынка |  | ИНДУСТРИЯ ВПЕЧАТЛЕНИЙ И КОММУНИКАЦИЙ | PR, SMM, контент и инфлюенс-...","textChars":138,"textLines":5,"bbox":[126.41,135.89,1112.41,161.56]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"TextBox 10","text":"РЕКЛАМНЫЙ ИНВЕНТАРЬ И ТЕХНОЛОГИИ · AdTech и размещение\nТЕХНОЛОГИИ И АНАЛИТИКА · эконометрика, SEO, сквозная аналитика","textPreview":"РЕКЛАМНЫЙ ИНВЕНТАРЬ И ТЕХНОЛОГИИ · AdTech и размещение | ТЕХНОЛОГИИ И АНАЛИТИКА · эконометрика, SEO, сквозная аналитика","textChars":117,"textLines":2,"bbox":[128.47,288.49,1187.29,108]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"TextBox 5","text":"ЭКОСИСТЕМА В ЦИФРЕ И ЦИФРАХ · digital, видео и DOOH\nРЕКЛАМНЫЕ КЕЙСЫ · практические разборы","textPreview":"ЭКОСИСТЕМА В ЦИФРЕ И ЦИФРАХ · digital, видео и DOOH | РЕКЛАМНЫЕ КЕЙСЫ · практические разборы","textChars":90,"textLines":2,"bbox":[130.53,405,1187.29,130]}
+{"kind":"shape","id":"sh/t8byxkn2","slide":2,"name":"Freeform: Shape 19","bbox":[76.88,171.88,28.89,28.29]}
+{"kind":"shape","id":"sh/s72xofmh","slide":2,"name":"Rectangle: Rounded Corners 20","bbox":[65.71,165.88,50.18,39.11]}
+{"kind":"shape","id":"sh/cnupgny5","slide":2,"name":"Freeform: Shape 17","bbox":[80.39,149.41,6.65,16.67]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"Freeform: Shape 18","bbox":[93.36,149.41,6.65,16.67]}
+{"kind":"shape","id":"sh/fadgzu58","slide":2,"name":"Freeform: Shape 25","bbox":[1178.32,42.32,102.96,100.84]}
+{"kind":"shape","id":"sh/u94fqp4n","slide":2,"name":"Rectangle: Rounded Corners 26","bbox":[1138.52,20.94,178.85,139.38]}
+{"kind":"shape","id":"sh/hcvy14ne","slide":2,"name":"Freeform: Shape 23","bbox":[1190.82,-37.75,23.7,59.43]}
+{"kind":"shape","id":"sh/gbmxszmt","slide":2,"name":"Freeform: Shape 24","bbox":[1237.07,-37.75,23.7,59.43]}
+{"kind":"shape","id":"sh/onydsbmd","slide":2,"name":"Freeform: Shape 31","bbox":[76.88,322.86,28.89,28.29]}
+{"kind":"shape","id":"sh/9o7ulg3y","slide":2,"name":"Rectangle: Rounded Corners 32","bbox":[65.71,316.87,50.18,39.11]}
+{"kind":"shape","id":"sh/mlgvq147","slide":2,"name":"Freeform: Shape 29","bbox":[80.39,300.4,6.65,16.67]}
+{"kind":"shape","id":"sh/nmpcj6ls","slide":2,"name":"Freeform: Shape 30","bbox":[93.36,300.4,6.65,16.67]}
+{"kind":"shape","id":"sh/id0vylkf","slide":2,"name":"Freeform: Shape 37","bbox":[76.88,415.78,28.89,28.29]}
+{"kind":"shape","id":"sh/je9crql0","slide":2,"name":"Rectangle: Rounded Corners 38","bbox":[65.71,409.78,50.18,39.11]}
+{"kind":"shape","id":"sh/wbidwb29","slide":2,"name":"Freeform: Shape 35","bbox":[80.39,393.32,6.65,16.67]}
+{"kind":"shape","id":"sh/xcrupg3u","slide":2,"name":"Freeform: Shape 36","bbox":[93.36,393.32,6.65,16.67]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"Восемь тематических потоков. Источники: пользовательский план и официальная программа AdIndex City 2026."}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"ОЛЕГ ТЕМБОТОВ · Mediasystem","textShapes":5}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"TextBox 11","text":"ОЛЕГ ТЕМБОТОВ · Mediasystem\nДолгосрочные модели уступают тактической гибкости — без отказа от последовательного брендбилдинга.","textPreview":"ОЛЕГ ТЕМБОТОВ · Mediasystem | Долгосрочные модели уступают тактической гибкости — без отказа от последовательного брендбилдинга.","textChars":126,"textLines":2,"bbox":[61.67,554.37,1202.89,124.8]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"Title 1","placeholder":"title","text":"Ключевые сигналы от спикеров","textPreview":"Ключевые сигналы от спикеров","textChars":28,"textLines":1,"bbox":[63.81,52.98,763.5,90.98]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"TextBox 8","text":"ЯКОВ ПЕЙСАХЗОН · «Авито Реклама»\nБрендам важно видеть не только интересы, но и жизненные события — переезд, питомца, продажу автомобиля.","textPreview":"ЯКОВ ПЕЙСАХЗОН · «Авито Реклама» | Брендам важно видеть не только интересы, но и жизненные события — переезд, питомца, продажу автомобиля.","textChars":136,"textLines":2,"bbox":[126.41,135.89,1112.41,161.56]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"TextBox 10","text":"АЛЕКСЕЙ БАХТЕРОВ · Media Instinct Group\nИндустрия переходит от эпохи программного обеспечения к эпохе ИИ — значительно более быстрой.","textPreview":"АЛЕКСЕЙ БАХТЕРОВ · Media Instinct Group | Индустрия переходит от эпохи программного обеспечения к эпохе ИИ — значительно более быстрой.","textChars":133,"textLines":2,"bbox":[128.47,286,1187.29,105.6]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"TextBox 5","text":"ТАТЬЯНА КОВАЛЕВСКАЯ · T2 AdTech\nТрадиционные медиа уступают персонализированным алгоритмическим лентам.","textPreview":"ТАТЬЯНА КОВАЛЕВСКАЯ · T2 AdTech | Традиционные медиа уступают персонализированным алгоритмическим лентам.","textChars":103,"textLines":2,"bbox":[130.53,395,1187.29,125]}
+{"kind":"shape","id":"sh/e10f2twf","slide":3,"name":"Freeform: Shape 19","bbox":[76.88,171.88,28.89,28.29]}
+{"kind":"shape","id":"sh/f29gbyx0","slide":3,"name":"Rectangle: Rounded Corners 20","bbox":[65.71,165.88,50.18,39.11]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"Freeform: Shape 17","bbox":[80.39,149.41,6.65,16.67]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"Freeform: Shape 18","bbox":[93.36,149.41,6.65,16.67]}
+{"kind":"shape","id":"sh/sfix03y9","slide":3,"name":"Freeform: Shape 25","bbox":[1178.32,42.32,102.96,100.84]}
+{"kind":"shape","id":"sh/tgry9ofu","slide":3,"name":"Rectangle: Rounded Corners 26","bbox":[1138.52,20.94,178.85,139.38]}
+{"kind":"shape","id":"sh/6d0fytg3","slide":3,"name":"Freeform: Shape 23","bbox":[1190.82,-37.75,23.7,59.43]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"Freeform: Shape 24","bbox":[1237.07,-37.75,23.7,59.43]}
+{"kind":"shape","id":"sh/z2d07mh4","slide":3,"name":"Freeform: Shape 31","bbox":[76.88,322.86,28.89,28.29]}
+{"kind":"shape","id":"sh/y14jehgj","slide":3,"name":"Rectangle: Rounded Corners 32","bbox":[65.71,316.87,50.18,39.11]}
+{"kind":"shape","id":"sh/l4fi9cza","slide":3,"name":"Freeform: Shape 29","bbox":[80.39,300.4,6.65,16.67]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"Freeform: Shape 30","bbox":[93.36,300.4,6.65,16.67]}
+{"kind":"shape","id":"sh/hwzihwzi","slide":3,"name":"Freeform: Shape 37","bbox":[76.88,415.78,28.89,28.29]}
+{"kind":"shape","id":"sh/wv61obyx","slide":3,"name":"Rectangle: Rounded Corners 38","bbox":[65.71,409.78,50.18,39.11]}
+{"kind":"shape","id":"sh/byd032h8","slide":3,"name":"Freeform: Shape 35","bbox":[80.39,393.32,6.65,16.67]}
+{"kind":"shape","id":"sh/ax4zax0n","slide":3,"name":"Freeform: Shape 36","bbox":[93.36,393.32,6.65,16.67]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"Источник формулировок: https://adindex.ru/news/marketing/2026/07/1/346747.phtml"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Главные темы ТВ-рекламы","textShapes":2}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"Заголовок 1","placeholder":"title","text":"Главные темы ТВ-рекламы","textPreview":"Главные темы ТВ-рекламы","textChars":23,"textLines":1,"bbox":[505.33,53.83,763.5,90.98]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"Текст 2","placeholder":"body","text":"ГЛАВНАЯ МЫСЛЬ\nРекламодатель покупает не ТВ-инвентарь, а видеоконтакт с человеком — в эфире, Smart TV, онлайн-кинотеатре или мобильном видео.\n\nКЛЮЧЕВЫЕ ВЫВОДЫ\n• Классическое ТВ остается фундаментом кампании.\n• Цифровой контент всё чаще смотрят на телевизоре.\n• Кампании сразу планируются под несколько типов видеопотребления.\n• ТВ-экран становится точкой входа в цифровую рекламу.\n• Рынок движется к омниканальному видеопланированию.\n• Решения всё чаще принимаются на основе больших данных и ИИ.","textPreview":"ГЛАВНАЯ МЫСЛЬ | Рекламодатель покупает не ТВ-инвентарь, а видеоконтакт с человеком — в эфире, Smart TV, онлайн-кинотеатре или мобильном в...","textChars":494,"textLines":10,"bbox":[531.05,158.87,712.07,454.83]}
+{"kind":"image","id":"im/q1sbal07","slide":4,"name":"Рисунок 6","bbox":[-8.8,0,490.26,720]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"Сводка по пользовательскому плану."}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"ГЛАВНАЯ ЗАДАЧА РЫНКА — НЕ РАЗДЕЛЯТЬ ТВ И DIGITAL","textShapes":5}
+{"kind":"textbox","id":"sh/ahkvi1cb","slide":5,"name":"TextBox 11","text":"ГЛАВНАЯ ЗАДАЧА РЫНКА — НЕ РАЗДЕЛЯТЬ ТВ И DIGITAL","textPreview":"ГЛАВНАЯ ЗАДАЧА РЫНКА — НЕ РАЗДЕЛЯТЬ ТВ И DIGITAL","textChars":48,"textLines":1,"bbox":[61.67,554.37,1202.89,87.24]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"Title 1","placeholder":"title","text":"Что это значит для ТВ-рынка","textPreview":"Что это значит для ТВ-рынка","textChars":27,"textLines":1,"bbox":[63.81,52.98,763.5,90.98]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"TextBox 8","text":"ЛИНЕЙНОЕ ТВ СОХРАНЯЕТ ЗНАЧЕНИЕ\nОно остается массовым фундаментом видеокампаний.","textPreview":"ЛИНЕЙНОЕ ТВ СОХРАНЯЕТ ЗНАЧЕНИЕ | Оно остается массовым фундаментом видеокампаний.","textChars":79,"textLines":2,"bbox":[126.41,135.89,1112.41,161.56]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"TextBox 10","text":"DIGITAL TV И CTV — ОБЯЗАТЕЛЬНАЯ ЧАСТЬ ВИДЕОМИКСА\nОнлайн-видео и телевизионный экран постепенно объединяются.","textPreview":"DIGITAL TV И CTV — ОБЯЗАТЕЛЬНАЯ ЧАСТЬ ВИДЕОМИКСА | Онлайн-видео и телевизионный экран постепенно объединяются.","textChars":108,"textLines":2,"bbox":[128.47,288.49,1187.29,197.11]}
+{"kind":"textbox","id":"sh/l4bupwny","slide":5,"name":"TextBox 5","text":"ДАННЫЕ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ\nстановятся основой медиапланирования и выбора контакта.","textPreview":"ДАННЫЕ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ | становятся основой медиапланирования и выбора контакта.","textChars":88,"textLines":2,"bbox":[130.53,384.95,1187.29,135.71]}
+{"kind":"shape","id":"sh/hgrmpwj2","slide":5,"name":"Freeform: Shape 19","bbox":[76.88,171.88,28.89,28.29]}
+{"kind":"shape","id":"sh/gfi5grih","slide":5,"name":"Rectangle: Rounded Corners 20","bbox":[65.71,165.88,50.18,39.11]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"Freeform: Shape 17","bbox":[80.39,149.41,6.65,16.67]}
+{"kind":"shape","id":"sh/tcfel0vu","slide":5,"name":"Freeform: Shape 18","bbox":[93.36,149.41,6.65,16.67]}
+{"kind":"shape","id":"sh/3i94r61s","slide":5,"name":"Freeform: Shape 25","bbox":[1178.32,42.32,102.96,100.84]}
+{"kind":"shape","id":"sh/2h0ni107","slide":5,"name":"Rectangle: Rounded Corners 26","bbox":[1138.52,20.94,178.85,139.38]}
+{"kind":"shape","id":"sh/pkr6tgjy","slide":5,"name":"Freeform: Shape 23","bbox":[1190.82,-37.75,23.7,59.43]}
+{"kind":"shape","id":"sh/4ji5kbid","slide":5,"name":"Freeform: Shape 24","bbox":[1237.07,-37.75,23.7,59.43]}
+{"kind":"shape","id":"sh/wve1knyx","slide":5,"name":"Freeform: Shape 31","bbox":[76.88,322.86,28.89,28.29]}
+{"kind":"shape","id":"sh/xwn2dszi","slide":5,"name":"Rectangle: Rounded Corners 32","bbox":[65.71,316.87,50.18,39.11]}
+{"kind":"shape","id":"sh/atcjidg7","slide":5,"name":"Freeform: Shape 29","bbox":[80.39,300.4,6.65,16.67]}
+{"kind":"shape","id":"sh/vu5kbihc","slide":5,"name":"Freeform: Shape 30","bbox":[93.36,300.4,6.65,16.67]}
+{"kind":"shape","id":"sh/e1sjatgz","slide":5,"name":"Freeform: Shape 37","bbox":[76.88,415.78,28.89,28.29]}
+{"kind":"shape","id":"sh/zmlk3yhk","slide":5,"name":"Rectangle: Rounded Corners 38","bbox":[65.71,409.78,50.18,39.11]}
+{"kind":"shape","id":"sh/kjelony9","slide":5,"name":"Freeform: Shape 35","bbox":[80.39,393.32,6.65,16.67]}
+{"kind":"shape","id":"sh/5kn2hszu","slide":5,"name":"Freeform: Shape 36","bbox":[93.36,393.32,6.65,16.67]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"Итоговая управленческая рамка по пользовательскому плану."}

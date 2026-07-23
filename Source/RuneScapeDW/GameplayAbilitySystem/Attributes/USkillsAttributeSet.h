@@ -24,16 +24,16 @@ struct FSkillUIData
 	GENERATED_BODY()
 
 	UPROPERTY(BlueprintReadOnly)
-	ESkillType SkillType;
+	ESkillType SkillType = ESkillType::Woodcutting;
 
 	UPROPERTY(BlueprintReadOnly)
-	float Level;
+	float Level = 0.0f;
 
 	UPROPERTY(BlueprintReadOnly)
-	float XP;
+	float XP = 0.0f;
 
 	UPROPERTY(BlueprintReadOnly)
-	float MaxLevel;
+	float MaxLevel = 0.0f;
 };
 
 USTRUCT(BlueprintType)

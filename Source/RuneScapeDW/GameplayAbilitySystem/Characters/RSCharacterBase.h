@@ -27,11 +27,12 @@ public:
 	float, NewValue
 );
 	
-	DECLARE_DYNAMIC_MULTICAST_DELEGATE_ThreeParams(
+	DECLARE_DYNAMIC_MULTICAST_DELEGATE_FourParams(
 	FOnSkillXPChanged,
 	ESkillType, SkillType,
 	float, OldValue,
-	float, NewValue
+	float, NewValue,
+	float, CurrentLevel
 	);
 	
 	UPROPERTY(BlueprintAssignable, Category="Skills")
